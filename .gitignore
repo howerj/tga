@@ -1,0 +1,4 @@
+tga
+*.o
+*.tga
+*.pbm
