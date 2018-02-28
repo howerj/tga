@@ -22,7 +22,8 @@ To convert the file [font.bin][] into *font.tga*. And to clean up:
 originally from this project
 <https://opencores.org/project,interface_vga80x40>.
 
-For a specification of the [TGA][] file format, consult [tga.pdf][].
+For a specification of the [TGA][] file format, consult [tga.pdf][], which came
+from <http://tfc.duke.free.fr/coding/tga_specs.pdf>
  
 [ASCII]: https://en.wikipedia.org/wiki/ASCII
 [Netpbm]: https://en.wikipedia.org/wiki/Netpbm
