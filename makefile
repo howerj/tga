@@ -1,3 +1,4 @@
+CFLAGS=-Wall -Wextra -std=c99 -pedantic -O2
 TARGET=tga
 
 .PHONY: all clean run

@@ -1,8 +1,8 @@
 # TGA
 
-This is a simple program to convert a file containing a [Netpbm][] like 
-format, containing a black and white image in a textual format (with white 
-being [ASCII][] '0' and black '1') into a [TGA][] file. 
+This is a simple program to convert a file containing a [Netpbm][] file,
+containing a black and white image in a textual format (with white being
+[ASCII][] '0' and black '1') into a [TGA][] file.
 
 To build requires *make* and a *C99* compiler:
 
